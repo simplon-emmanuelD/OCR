@@ -1,1 +1,1 @@
-# OCR
+# Depot pour les exos OpenClassRom
